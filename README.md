@@ -18,7 +18,7 @@ Special thanks to [Rin](https://github.com/honeymiko) for her support with Hacki
 - Touchpad
 - Battery Indicator
 - Brightness
-- WiFi
+- WiFi (Some troubles/sometimes bad speed)
 
 # Not working
 
