@@ -3,7 +3,7 @@
 A manually assembled build for installing Hackintosh on my laptop. Saved for future experiments.
 [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-Special thanks to [Rin](https://github.com/honeymiko) for her support with Hackintosh install.
+Special thanks to [Rin](https://github.com/rinlimerence) for her support with Hackintosh install.
 
 **OpenCore Version:** 0.8.0
 
